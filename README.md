@@ -24,7 +24,4 @@ This project demonstrates **large-scale multi-class image classification**, whic
 - ✔ **Config + metadata files stored for reproducibility**  
 - ✔ **Can be extended to TinyML / Edge AI models**  
 
----
-
-## 📂 Repository Structure
 
